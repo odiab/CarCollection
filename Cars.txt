@@ -1,3 +1,5 @@
 Honda
 Toyota
 Opel
+KIA
+VW
